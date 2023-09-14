@@ -1,0 +1,16 @@
+Cosine similarity between "need to do better in terms of performance." and "Optimal performance" is: 0.6760
+Cosine similarity between "efficient and look for" and "Optimal performance" is: 0.6281
+Cosine similarity between "consensus that we need to do better in terms of performance." and "Optimal performance" is: 0.6267
+Cosine similarity between "to the consensus that we need to do better in terms of performance." and "Optimal performance" is: 0.6231
+Cosine similarity between "be more efficient" and "Optimal performance" is: 0.6227
+Cosine similarity between "more efficient and look for ways to be more creative in our daily tasks. Growth" and "Enhance productivity" is: 0.6221
+Cosine similarity between "terms of performance." and "Optimal performance" is: 0.6212
+Cosine similarity between "more efficient and look for" and "Optimal performance" is: 0.6190
+Cosine similarity between "do better in terms of performance." and "Optimal performance" is: 0.6171
+Cosine similarity between "more efficient and look for ways to be more creative in our daily tasks. Growth is" and "Enhance productivity" is: 0.6163
+Cosine similarity between "more efficient and look for ways to be more" and "Optimal performance" is: 0.6158
+Cosine similarity between "efficient and look for ways to be more" and "Optimal performance" is: 0.6089
+Cosine similarity between "more efficient" and "Optimal performance" is: 0.6076
+Cosine similarity between "to do better in terms of performance." and "Optimal performance" is: 0.6074
+Cosine similarity between "we need to do better in terms of performance." and "Optimal performance" is: 0.6036
+Cosine similarity between "should aim to be more efficient and look for" and "Optimal performance" is: 0.6002

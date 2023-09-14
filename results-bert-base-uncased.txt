@@ -1,0 +1,12 @@
+Cosine similarity between "Growth is" and "Drive growth" is: 0.8203
+Cosine similarity between "building strong" and "Drive growth" is: 0.8104
+Cosine similarity between "use of" and "Optimal performance" is: 0.7915
+Cosine similarity between "Growth is" and "Optimal performance" is: 0.7848
+Cosine similarity between "plans carefully" and "Execute strategies" is: 0.7835
+Cosine similarity between "more creative" and "Drive growth" is: 0.7817
+Cosine similarity between "aim to" and "Execute strategies" is: 0.7770
+Cosine similarity between "be more creative" and "Foster innovation" is: 0.7751
+Cosine similarity between "be more creative" and "Drive growth" is: 0.7730
+Cosine similarity between "be more efficient" and "Drive growth" is: 0.7719
+Cosine similarity between "more efficient" and "Optimal performance" is: 0.7705
+Cosine similarity between "building strong relationships with" and "Implement best practices" is: 0.7705
